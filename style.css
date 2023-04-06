@@ -12,7 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background: linear-gradient(blue, rgb(10, 10, 10));
+  background: linear-gradient(blue, rgb(224, 5, 224));
 }
 
 .container {
@@ -47,7 +47,7 @@ body {
   flex: 5;
 }
 
-.panel.active h3 {
+.panel.active h3, h5 {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
   color: red;
