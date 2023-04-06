@@ -50,7 +50,7 @@ body {
 .panel.active h3, h5 {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
-  color: red;
+  color: rgb(241, 237, 237);
   font-size: 32px;
 }
 
